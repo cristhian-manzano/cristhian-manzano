@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Cristhian Manzano
+## Hi there 👋, I'm Cristhian Manzano
 
-## Skills
+### Skills
 
 Advanced knowledge in:
 
